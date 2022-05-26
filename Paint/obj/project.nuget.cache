@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "ehYm8l0oob++EQG1p7JCT/6SkVZRSoN1PLcXDyjCd56x7HvEhLnfYzVrwUJp5YpSQL6q2AJ/9j6N7tIIOWOV8g==",
+  "dgSpecHash": "CPDu4XhMm7OsYPxrx8zgP9XxX8GR2jDH2i5fPq4p+DqWCl8vUvhnPihnxi69fD2qtzDoRSQIxnSdIfyIQgK4og==",
   "success": true,
-  "projectFilePath": "/Users/zhenyamint/Desktop/2 курс/Гд/ezyZip/sheet_painter.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\artem\\OneDrive\\Рабочий стол\\Учёба\\ГД\\sheet_painter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\artem\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512",
+    "C:\\Users\\artem\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\artem\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\artem\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }
