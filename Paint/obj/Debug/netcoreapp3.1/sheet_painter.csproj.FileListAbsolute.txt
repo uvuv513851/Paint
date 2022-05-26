@@ -1,0 +1,54 @@
+C:\Users\admin\source\repos\sheet_painter\obj\Debug\netcoreapp3.1\sheet_painter.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\sheet_painter\obj\Debug\netcoreapp3.1\sheet_painter.Form1.resources
+C:\Users\admin\source\repos\sheet_painter\obj\Debug\netcoreapp3.1\sheet_painter.help.resources
+C:\Users\admin\source\repos\sheet_painter\obj\Debug\netcoreapp3.1\sheet_painter.Properties.Resources.resources
+C:\Users\admin\source\repos\sheet_painter\obj\Debug\netcoreapp3.1\sheet_painter.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\sheet_painter\obj\Debug\netcoreapp3.1\sheet_painter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\sheet_painter\obj\Debug\netcoreapp3.1\sheet_painter.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\sheet_painter\obj\Debug\netcoreapp3.1\sheet_painter.AssemblyInfo.cs
+C:\Users\admin\source\repos\sheet_painter\obj\Debug\netcoreapp3.1\sheet_painter.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\sheet_painter\bin\Debug\netcoreapp3.1\sheet_painter.exe
+C:\Users\admin\source\repos\sheet_painter\bin\Debug\netcoreapp3.1\sheet_painter.deps.json
+C:\Users\admin\source\repos\sheet_painter\bin\Debug\netcoreapp3.1\sheet_painter.runtimeconfig.json
+C:\Users\admin\source\repos\sheet_painter\bin\Debug\netcoreapp3.1\sheet_painter.runtimeconfig.dev.json
+C:\Users\admin\source\repos\sheet_painter\bin\Debug\netcoreapp3.1\sheet_painter.dll
+C:\Users\admin\source\repos\sheet_painter\bin\Debug\netcoreapp3.1\sheet_painter.pdb
+C:\Users\admin\source\repos\sheet_painter\obj\Debug\netcoreapp3.1\sheet_painter.dll
+C:\Users\admin\source\repos\sheet_painter\obj\Debug\netcoreapp3.1\sheet_painter.pdb
+C:\Users\admin\source\repos\sheet_painter\obj\Debug\netcoreapp3.1\sheet_painter.genruntimeconfig.cache
+C:\Users\artem\OneDrive\Рабочий стол\sheet_painter\bin\Debug\netcoreapp3.1\sheet_painter.exe
+C:\Users\artem\OneDrive\Рабочий стол\sheet_painter\bin\Debug\netcoreapp3.1\sheet_painter.deps.json
+C:\Users\artem\OneDrive\Рабочий стол\sheet_painter\bin\Debug\netcoreapp3.1\sheet_painter.runtimeconfig.json
+C:\Users\artem\OneDrive\Рабочий стол\sheet_painter\bin\Debug\netcoreapp3.1\sheet_painter.runtimeconfig.dev.json
+C:\Users\artem\OneDrive\Рабочий стол\sheet_painter\bin\Debug\netcoreapp3.1\sheet_painter.dll
+C:\Users\artem\OneDrive\Рабочий стол\sheet_painter\bin\Debug\netcoreapp3.1\sheet_painter.pdb
+C:\Users\artem\OneDrive\Рабочий стол\sheet_painter\obj\Debug\netcoreapp3.1\sheet_painter.csproj.AssemblyReference.cache
+C:\Users\artem\OneDrive\Рабочий стол\sheet_painter\obj\Debug\netcoreapp3.1\sheet_painter.Form1.resources
+C:\Users\artem\OneDrive\Рабочий стол\sheet_painter\obj\Debug\netcoreapp3.1\sheet_painter.help.resources
+C:\Users\artem\OneDrive\Рабочий стол\sheet_painter\obj\Debug\netcoreapp3.1\sheet_painter.Properties.Resources.resources
+C:\Users\artem\OneDrive\Рабочий стол\sheet_painter\obj\Debug\netcoreapp3.1\sheet_painter.csproj.GenerateResource.cache
+C:\Users\artem\OneDrive\Рабочий стол\sheet_painter\obj\Debug\netcoreapp3.1\sheet_painter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artem\OneDrive\Рабочий стол\sheet_painter\obj\Debug\netcoreapp3.1\sheet_painter.AssemblyInfoInputs.cache
+C:\Users\artem\OneDrive\Рабочий стол\sheet_painter\obj\Debug\netcoreapp3.1\sheet_painter.AssemblyInfo.cs
+C:\Users\artem\OneDrive\Рабочий стол\sheet_painter\obj\Debug\netcoreapp3.1\sheet_painter.csproj.CoreCompileInputs.cache
+C:\Users\artem\OneDrive\Рабочий стол\sheet_painter\obj\Debug\netcoreapp3.1\sheet_painter.dll
+C:\Users\artem\OneDrive\Рабочий стол\sheet_painter\obj\Debug\netcoreapp3.1\sheet_painter.pdb
+C:\Users\artem\OneDrive\Рабочий стол\sheet_painter\obj\Debug\netcoreapp3.1\sheet_painter.genruntimeconfig.cache
+C:\Users\artem\OneDrive\Рабочий стол\Учёба\ГД\obj\Debug\netcoreapp3.1\sheet_painter.csproj.AssemblyReference.cache
+C:\Users\artem\OneDrive\Рабочий стол\Учёба\ГД\obj\Debug\netcoreapp3.1\sheet_painter.Form1.resources
+C:\Users\artem\OneDrive\Рабочий стол\Учёба\ГД\obj\Debug\netcoreapp3.1\sheet_painter.help.resources
+C:\Users\artem\OneDrive\Рабочий стол\Учёба\ГД\obj\Debug\netcoreapp3.1\sheet_painter.Properties.Resources.resources
+C:\Users\artem\OneDrive\Рабочий стол\Учёба\ГД\obj\Debug\netcoreapp3.1\sheet_painter.csproj.GenerateResource.cache
+C:\Users\artem\OneDrive\Рабочий стол\Учёба\ГД\obj\Debug\netcoreapp3.1\sheet_painter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artem\OneDrive\Рабочий стол\Учёба\ГД\obj\Debug\netcoreapp3.1\sheet_painter.AssemblyInfoInputs.cache
+C:\Users\artem\OneDrive\Рабочий стол\Учёба\ГД\obj\Debug\netcoreapp3.1\sheet_painter.AssemblyInfo.cs
+C:\Users\artem\OneDrive\Рабочий стол\Учёба\ГД\obj\Debug\netcoreapp3.1\sheet_painter.csproj.CoreCompileInputs.cache
+C:\Users\artem\OneDrive\Рабочий стол\Учёба\ГД\obj\Debug\netcoreapp3.1\sheet_painter.dll
+C:\Users\artem\OneDrive\Рабочий стол\Учёба\ГД\obj\Debug\netcoreapp3.1\sheet_painter.pdb
+C:\Users\artem\OneDrive\Рабочий стол\Учёба\ГД\bin\Debug\netcoreapp3.1\sheet_painter.exe
+C:\Users\artem\OneDrive\Рабочий стол\Учёба\ГД\bin\Debug\netcoreapp3.1\sheet_painter.deps.json
+C:\Users\artem\OneDrive\Рабочий стол\Учёба\ГД\bin\Debug\netcoreapp3.1\sheet_painter.runtimeconfig.json
+C:\Users\artem\OneDrive\Рабочий стол\Учёба\ГД\bin\Debug\netcoreapp3.1\sheet_painter.runtimeconfig.dev.json
+C:\Users\artem\OneDrive\Рабочий стол\Учёба\ГД\bin\Debug\netcoreapp3.1\sheet_painter.dll
+C:\Users\artem\OneDrive\Рабочий стол\Учёба\ГД\bin\Debug\netcoreapp3.1\sheet_painter.pdb
+C:\Users\artem\OneDrive\Рабочий стол\Учёба\ГД\obj\Debug\netcoreapp3.1\sheet_painter.genruntimeconfig.cache
